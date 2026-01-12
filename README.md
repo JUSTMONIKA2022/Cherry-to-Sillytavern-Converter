@@ -1,6 +1,6 @@
 # 关于Cherry-to-Sillytavern-Converter
 这是一个可以将Cherry Studio中的聊天记录（Markdown格式）自动转换为适配于SillyTavern（酒馆）json格式的脚本工具，完全在本地工作。
-纯粹是想要将Cherry Studio转移到Sillytavern时发现 *“唉我去怎么格式差异这么大啊”* 顺手让3.0写的。
+<br>纯粹是想要将Cherry Studio转移到Sillytavern时发现 *“唉我去怎么格式差异这么大啊”* 顺手让3.0写的。
 
 # 食用指南
 > 请详细阅读后进行使用，若有疑问可以联系开发者。阅读大概需要1分钟。
